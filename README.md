@@ -1,9 +1,10 @@
 # Zadání cvičení na OpenSCAD #2
 
 ## Hodnocení
-* Vaším úkolem je přihlásit se k úkolu pomocí tohoto linku: https://classroom.github.com/a/xsP06_0P
+* Vaším úkolem je přihlásit se k úkolu pomocí tohoto linku: https://classroom.github.com/a/wPjyEMRD
   * Kompletní řešení 1 úlohy (1 bod)
   * Úloha nesplňuje zadání (0 bodů)
+  * Úloha nesplňuje dodaný interface (0 bodů)
   * Maximální bodový zisk je 3 body, čili když uděláte více jak 3 úlohy spravně děláte to pouze pro váš dobrý pocit.
 
 ## Možné bodové srážky 
