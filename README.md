@@ -1,7 +1,7 @@
 # Zadání cvičení na OpenSCAD #2
 
 ## Hodnocení
-* Vaším úkolem je přihlásit se k úkolu pomocí tohoto linku: https://classroom.github.com/a/qjof8NxH
+* Vaším úkolem je přihlásit se k úkolu pomocí tohoto linku: https://classroom.github.com/a/PvaxmmPh
   * Kompletní řešení 1 úlohy (1 bod)
   * Úloha nesplňuje zadání (0 bodů)
   * Úloha nesplňuje dodaný interface (0 bodů)
