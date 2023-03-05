@@ -3,7 +3,7 @@
 Před odevzdáním úlohy přes GitHub je třeba [projevit souhlas se zpracováním  osobních údajů](https://courses.fit.cvut.cz/BI-3DT/gdpr.html).
 
 ## Hodnocení
-* Vaším úkolem je přihlásit se k úkolu pomocí tohoto linku: https://classroom.github.com/a/PvaxmmPh
+* Vaším úkolem je přihlásit se k úkolu pomocí tohoto linku: https://classroom.github.com/a/b3-o1V1p
   * Kompletní řešení 1 úlohy (1 bod)
   * Úloha nesplňuje zadání (0 bodů)
   * Úloha nesplňuje dodaný interface (0 bodů)
